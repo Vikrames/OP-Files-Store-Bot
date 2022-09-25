@@ -1,4 +1,4 @@
 # OP-Files-Store-Bot
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VikramRenameBot/OP-Files-Store-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vikrames/OP-Files-Store-Bot
